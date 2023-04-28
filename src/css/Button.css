@@ -1,0 +1,13 @@
+#btn{
+    display: flex;
+    align-items: center;
+   justify-content: center;
+    color: white;
+    background-color: rgb(90, 87, 87);
+    height: 20px;
+    margin:0px 10px 5px 10px;
+   
+    
+   
+    
+}
